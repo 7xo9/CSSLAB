@@ -122,3 +122,12 @@
     background-color: #7d7c7c00;
     transform: translate(110%, 136%);
 }
+
+.car{
+    box-shadow: 2px 2px 2px 6px rgba(0, 0, 0, 0.2);
+    transform: translate(50%,200%);
+    position: relative;
+    width: 200px;
+    height: 100px;
+    margin-left: 50px;
+}
